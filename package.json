@@ -1,0 +1,20 @@
+{
+  "name": "Emitter",
+  "version": "1.0.0",
+  "description": "The project aims to create a secure and efficient system for real-time data processing. It's designed for applications that require high data integrity and security, making it suitable for various industries including finance, healthcare, and IoT.",
+  "main": "index.js",
+  "repository": "https://github.com/Satyamchaubey/encrypted-timeseries.git",
+  "author": "Satyam Chaubey",
+  "license": "MIT",
+  "dependencies": {
+    "cli-clear": "^1.0.4",
+    "crypto-js": "^4.2.0",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "socket.io": "^4.7.2"
+  },
+  "scripts": {
+    "start-emitter": "node emitter.js",
+    "start-listener": "node listener.js"
+  }
+}
