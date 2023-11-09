@@ -61,16 +61,16 @@ The project aims to create a secure and efficient system for real-time data proc
 
 # Technologies Used
 
-- Node.js: The runtime environment for running the JavaScript code.
-- Socket.io: Enables real-time, bidirectional, and event-based communication.
-- Crypto-js: Provides cryptographic functions for encryption and decryption.
-- MongoDB: A NoSQL database used for storing time series data.
+Node.js: The runtime environment for running the JavaScript code.
+Socket.io: Enables real-time, bidirectional, and event-based communication.
+Crypto-js: Provides cryptographic functions for encryption and decryption.
+MongoDB: A NoSQL database used for storing time series data.
 
 # Acknowledgements
 
-- Socket.io
-- Crypto-js
-- MongoDB
+Socket.io
+Crypto-js
+MongoDB
 
 # Additional Information
 
